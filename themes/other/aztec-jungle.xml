@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="aztec-jungle" version="1.0" name="aztec-jungle">
+	<description>aztec-jungle by fm3chanic</description>
+
+	<!-- color values  -->
+	<color name="bg1" value="#3b322b"/>
+	<color name="bg2" value="#4a3e36"/>
+	<color name="bg3" value="#594b40"/>
+	<color name="fg1" value="#eae5e1"/>
+	<color name="fg2" value="#d4cbc4"/>
+	<color name="fg3" value="#c9beb5"/>
+	<color name="hl1" value="#b4a497"/>
+	<color name="hl2" value="#947d6b"/>
+	<color name="hl3" value="#766456"/>
+
+	<color name="m1" value="#ac5353"/>
+	<color name="m2" value="#ac5380"/>
+	<color name="m3" value="#53ac96"/>
+	<color name="m4" value="#99b34d"/>
+	<color name="m5" value="#b3804d"/>
+	<color name="m6" value="#4db366"/>
+	<color name="s1" value="#cd9898"/>
+	<color name="s2" value="#cd98b3"/>
+	<color name="s3" value="#98cdc0"/>
+	<color name="s4" value="#b8c982"/>
+	<color name="s5" value="#d1b394"/>
+	<color name="s6" value="#94d1a3"/>
+
+	<!-- global -->
+	<style name="text"                        foreground="fg1" background="bg2"/><!-- using bg2, as a darker bg is used for right-margin -->
+	<style name="selection"                   foreground="fg1" background="hl2"/>
+	<style name="cursor"                      foreground="fg1"/>
+	<style name="secondary-cursor"            foreground="fg1"/>
+	<style name="current-line"                background="hl3"/>
+	<style name="current-line-number"         background="hl2" foreground="fg3" bold="false"/>
+	<style name="line-numbers"                background="bg1" foreground="fg3"/>
+	<style name="draw-spaces"                 foreground="fg1"/>
+	<style name="background-pattern"          background="bg1"/>
+
+	<!-- defaults -->
+	<style name="def:base-n-integer"        foreground="m3"/>
+	<style name="def:boolean"               foreground="s3"/>
+	<style name="def:comment"               foreground="fg3"/>
+	<style name="def:constant"              foreground="m5"/>
+	<style name="def:decimal"               foreground="m3"/>
+	<style name="def:deletion"              strikethrough="true"/>
+	<style name="def:doc-comment-element"   italic="true"/>
+	<style name="def:emphasis"              italic="true"/>
+	<style name="def:error"                 foreground="m1"/>
+	<style name="def:floating-point"        foreground="m3"/>
+	<style name="def:function"              foreground="m1"/>
+	<style name="def:heading"               foreground="m2" bold="true"/>
+	<style name="def:identifier"            foreground="s5"/>
+	<style name="def:inline-code"           foreground="s6"/>
+	<style name="def:insertion"             underline="single"/>
+	<style name="def:keyword"               foreground="m6" bold="false"/>
+	<style name="def:link-destination"      foreground="s3" italic="false" underline="single"/>
+	<style name="def:link-symbol"           foreground="s4" bold="false"/>
+	<style name="def:link-text"             foreground="s4"/>
+	<style name="def:list-marker"           foreground="s5" bold="false"/>
+	<style name="def:net-address"           italic="false" underline="single"/>
+	<style name="def:note"                  background="fg3" bold="false"/>
+	<style name="def:operator"              foreground="m5"/>
+	<style name="def:preformatted-section"  foreground="m2"/>
+	<style name="def:preprocessor"          foreground="m2"/>
+	<style name="def:shebang"               foreground="m1" bold="false"/>
+	<style name="def:special-char"          foreground="m1"/>
+	<style name="def:special-constant"      foreground="s5"/>
+	<style name="def:statement"             foreground="m5" bold="false"/>
+	<style name="def:string"                foreground="m4"/>
+	<style name="def:strong-emphasis"       foreground="s1" bold="true"/>
+	<style name="def:thematic-break"        foreground="s2" bold="true"/>
+	<style name="def:type"                  foreground="m2" bold="false"/>
+	<style name="def:warning"               background="m1"/>
+
+	<!-- language specifics -->
+	<style name="c:boolean"                 foreground="s3"/>
+	<style name="c:comment"                 foreground="fg3"/>
+	<style name="c:enum-name"               foreground="m1" bold="false"/>
+	<style name="c:included-file"           foreground="m2"/>
+	<style name="c:keyword"                 foreground="m6" bold="false"/>
+	<style name="c:macro-name"              foreground="m5" bold="false"/>
+	<style name="c:preprocessor"            foreground="m2" bold="false"/>
+	<style name="c:storage-class"           foreground="m5" bold="false"/>
+	<style name="c:string"                  foreground="m4"/>
+	<style name="c:type"                    foreground="m2" bold="false"/>
+	<style name="js:built-in-constructor"   foreground="m2"/>
+	<style name="js:built-in-function"      foreground="m1"/>
+	<style name="js:built-in-method"        foreground="m1"/>
+	<style name="js:keyword"                foreground="m6"/>
+	<style name="js:string"                 foreground="m4"/>
+	<style name="js:template-literal"       foreground="s3"/>
+	<style name="sh:variable"               foreground="m5"/>
+	<style name="sh:variable-definition"    foreground="m6"/>
+	<style name="python:builtin-object"     foreground="m2"/>
+	<style name="python:function-name"      foreground="m1"/>
+	<style name="python:keyword"            foreground="m6" bold="false"/>
+	<style name="python:module-handler"     foreground="m2" bold="false"/>
+	<style name="xml:attribute-name"        foreground="m5"/>
+	<style name="xml:element-name"          foreground="m4"/>
+
+	<!-- other ui  -->
+	<style name="bracket-match"               underline="single"/>
+	<style name="bracket-mismatch"            foreground="fg1" background="s1"/>
+	<style name="right-margin"                foreground="fg1" background="bg1"/>
+	<style name="search-match"                foreground="fg1" background="hl2"/>
+</style-scheme>
