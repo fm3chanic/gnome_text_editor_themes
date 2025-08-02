@@ -27,15 +27,15 @@
 	<color name="s6" value="#8b22c3"/>
 
 	<!-- global -->
-	<style name="text"                        foreground="fg1" background="bg2"/><!-- using bg2, as a darker bg is used for right-margin -->
+	<style name="text"                        foreground="fg1" background="bg1"/>
 	<style name="selection"                   foreground="fg1" background="hl2"/>
 	<style name="cursor"                      foreground="fg1"/>
 	<style name="secondary-cursor"            foreground="fg1"/>
 	<style name="current-line"                background="hl3"/>
 	<style name="current-line-number"         background="hl2" foreground="fg3" bold="false"/>
-	<style name="line-numbers"                background="bg1" foreground="fg3"/>
+	<style name="line-numbers"                background="bg2" foreground="fg3"/>
 	<style name="draw-spaces"                 foreground="fg1"/>
-	<style name="background-pattern"          background="bg1"/>
+	<style name="background-pattern"          background="bg3"/>
 
 	<!-- defaults -->
 	<style name="def:base-n-integer"        foreground="m3"/>
@@ -102,6 +102,6 @@
 	<!-- other ui  -->
 	<style name="bracket-match"               underline="single"/>
 	<style name="bracket-mismatch"            foreground="fg1" background="s1"/>
-	<style name="right-margin"                foreground="fg1" background="bg1"/>
+	<style name="right-margin"                foreground="fg1" background="bg2"/>
 	<style name="search-match"                foreground="fg1" background="hl2"/>
 </style-scheme>
