@@ -19,7 +19,6 @@
   <color name="c4" value="#b375f0"/>
   <color name="c5" value="#f075b3"/>
   <color name="c6" value="#7594f0"/>
-  <color name="c7" value="#8780b3"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
@@ -33,19 +32,19 @@
 	<style name="background-pattern"          background="bg3"/>
 
 	<!-- defaults -->
-	<style name="def:base-n-integer"        foreground="fg1"/>
+	<style name="def:base-n-integer"        foreground="c6"/>
 	<style name="def:boolean"               foreground="c6"/>
-	<style name="def:comment"               foreground="c7"/>
-	<style name="def:constant"              foreground="fg1"/>
-	<style name="def:decimal"               foreground="fg1"/>
+	<style name="def:comment"               foreground="fg3"/>
+	<style name="def:constant"              foreground="c3"/>
+	<style name="def:decimal"               foreground="c6"/>
 	<style name="def:deletion"              strikethrough="true"/>
 	<style name="def:doc-comment-element"   italic="true"/>
 	<style name="def:emphasis"              italic="true"/>
 	<style name="def:error"                 foreground="c1"/>
-	<style name="def:floating-point"        foreground="fg1"/>
-	<style name="def:function"              foreground="c3"/>
+	<style name="def:floating-point"        foreground="c6"/>
+	<style name="def:function"              foreground="c1"/>
 	<style name="def:heading"               foreground="c4" bold="true"/>
-	<style name="def:identifier"            foreground="fg1"/>
+	<style name="def:identifier"            foreground="c3"/>
 	<style name="def:inline-code"           foreground="c6"/>
 	<style name="def:insertion"             underline="single"/>
 	<style name="def:keyword"               foreground="c4" bold="false"/>
@@ -55,12 +54,12 @@
 	<style name="def:list-marker"           foreground="fg2" bold="false"/>
 	<style name="def:net-address"           italic="false" underline="single"/>
 	<style name="def:note"                  background="fg3" bold="false"/>
-	<style name="def:operator"              foreground="fg1"/>
+	<style name="def:operator"              foreground="c3"/>
 	<style name="def:preformatted-section"  foreground="c2"/>
-	<style name="def:preprocessor"          foreground="c2"/>
+	<style name="def:preprocessor"          foreground="c5"/>
 	<style name="def:shebang"               foreground="c1" bold="false"/>
 	<style name="def:special-char"          foreground="c1"/>
-	<style name="def:special-constant"      foreground="fg1"/>
+	<style name="def:special-constant"      foreground="c3"/>
 	<style name="def:statement"             foreground="c4" bold="false"/>
 	<style name="def:string"                foreground="c2"/>
 	<style name="def:strong-emphasis"       foreground="c1" bold="true"/>
@@ -70,28 +69,28 @@
 
 	<!-- language specifics -->
 	<style name="c:boolean"                 foreground="c6"/>
-	<style name="c:comment"                 foreground="c7"/>
+	<style name="c:comment"                 foreground="fg3"/>
 	<style name="c:enum-name"               foreground="c5" bold="false"/>
-	<style name="c:included-file"           foreground="c2"/>
+	<style name="c:included-file"           foreground="c5"/>
 	<style name="c:keyword"                 foreground="c4" bold="false"/>
-	<style name="c:macro-name"              foreground="c6" bold="false"/>
+	<style name="c:macro-name"              foreground="c1" bold="false"/>
 	<style name="c:preprocessor"            foreground="c5" bold="false"/>
 	<style name="c:storage-class"           foreground="c5" bold="false"/>
 	<style name="c:string"                  foreground="c2"/>
 	<style name="c:type"                    foreground="c5" bold="false"/>
-	<style name="js:built-in-constructor"   foreground="c6"/>
-	<style name="js:built-in-function"      foreground="c3"/>
-	<style name="js:built-in-method"        foreground="c3"/>
+	<style name="js:built-in-constructor"   foreground="c5"/>
+	<style name="js:built-in-function"      foreground="c1"/>
+	<style name="js:built-in-method"        foreground="c1"/>
 	<style name="js:keyword"                foreground="c4"/>
 	<style name="js:string"                 foreground="c2"/>
 	<style name="js:template-literal"       foreground="c2"/>
-	<style name="sh:variable"               foreground="fg1"/>
-	<style name="sh:variable-definition"    foreground="c5"/>
-	<style name="python:builtin-object"     foreground="fg1"/>
-	<style name="python:function-name"      foreground="c3"/>
+	<style name="sh:variable"               foreground="c3"/>
+	<style name="sh:variable-definition"    foreground="c6"/>
+	<style name="python:builtin-object"     foreground="c3"/>
+	<style name="python:function-name"      foreground="c1"/>
 	<style name="python:keyword"            foreground="c4" bold="false"/>
-	<style name="python:module-handler"     foreground="c2" bold="false"/>
-	<style name="xml:attribute-name"        foreground="c5"/>
+	<style name="python:module-handler"     foreground="c5" bold="false"/>
+	<style name="xml:attribute-name"        foreground="c6"/>
 	<style name="xml:element-name"          foreground="c4"/>
 
 	<!-- other ui  -->
