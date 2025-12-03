@@ -9,12 +9,12 @@
 	<color name="fg1" value="#f6efef"/>
 	<color name="fg2" value="#e3cece"/>
 	<color name="fg3" value="#d1adad"/>
-	<color name="hl1" value="#bf8d8d"/>
-	<color name="hl2" value="#ac6c6c"/>
-	<color name="hl3" value="#935353"/>
+	<color name="hl1" value="#af6a6a"/>
+	<color name="hl2" value="#955050"/>
+	<color name="hl3" value="#743e3e"/>
 
   <color name="c1" value="#e46767"/>
-  <color name="c2" value="#e4c567"/>
+  <color name="c2" value="#edc95e"/>
   <color name="c3" value="#75d7d7"/>
   <color name="c4" value="#75d78d"/>
   <color name="c5" value="#75a6d7"/>
