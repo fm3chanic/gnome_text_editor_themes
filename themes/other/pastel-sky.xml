@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="industrial" version="1.0" name="industrial">
-	<description>industrial by fm3chanic</description>
+<style-scheme id="pastel-sky" version="1.0" name="pastel-sky">
+	<description>pastel-sky by fm3chanic</description>
 
 	<!-- color values  -->
-	<color name="bg1" value="#1a1a1a"/>
-	<color name="bg2" value="#262626"/>
-	<color name="bg3" value="#333333"/>
-	<color name="fg1" value="#f2f2f2"/>
-	<color name="fg2" value="#cccccc"/>
-	<color name="fg3" value="#a6a6a6"/>
-	<color name="hl1" value="#808080"/>
-	<color name="hl2" value="#666666"/>
-	<color name="hl3" value="#4d4d4d"/>
+	<color name="bg1" value="#38313f"/>
+	<color name="bg2" value="#453d4d"/>
+	<color name="bg3" value="#52485b"/>
+	<color name="fg1" value="#d1bbe7"/>
+	<color name="fg2" value="#b8a6c9"/>
+	<color name="fg3" value="#b8afc0"/>
+	<color name="hl1" value="#9e92aa"/>
+	<color name="hl2" value="#857693"/>
+	<color name="hl3" value="#6b5e78"/>
 
-  <color name="c1" value="#5e5eed"/>
-  <color name="c2" value="#5eed5e"/>
-  <color name="c3" value="#5eeded"/>
-  <color name="c4" value="#eded5e"/>
-  <color name="c5" value="#eda65e"/>
-  <color name="c6" value="#5ea6ed"/>
+  <color name="c1" value="#f28c8c"/>
+  <color name="c2" value="#f0c775"/>
+  <color name="c3" value="#8cf2f2"/>
+  <color name="c4" value="#bff28c"/>
+  <color name="c5" value="#80bfff"/>
+  <color name="c6" value="#f28cf2"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
