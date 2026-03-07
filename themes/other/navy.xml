@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="rose" version="1.0" name="rose">
-	<description>rose by fm3chanic</description>
+<style-scheme id="navy" version="1.0" name="navy">
+	<description>navy by fm3chanic</description>
 
 	<!-- color values  -->
-	<color name="bg1" value="#181d18"/>
-	<color name="bg2" value="#222822"/>
-	<color name="bg3" value="#2F372F"/>
-	<color name="fg1" value="#dbbdc4"/>
-	<color name="fg2" value="#c99BA6"/>
-	<color name="fg3" value="#b77a89"/>
-	<color name="hl1" value="#a65b6d"/>
-	<color name="hl2" value="#844857"/>
-	<color name="hl3" value="#633641"/>
+	<color name="bg1" value="#5E7278"/>
+	<color name="bg2" value="#698086"/>
+	<color name="bg3" value="#768E94"/>
+	<color name="fg1" value="#DAE3EF"/>
+	<color name="fg2" value="#B8CAE1"/>
+	<color name="fg3" value="#94AFD2"/>
+	<color name="hl1" value="#3C4A4D"/>
+	<color name="hl2" value="#48585C"/>
+	<color name="hl3" value="#526469"/>
 
-  <color name="c1" value="#be405d"/>
-  <color name="c2" value="#bebe40"/>
-  <color name="c3" value="#40b4be"/>
-  <color name="c4" value="#40be75"/>
-  <color name="c5" value="#404abe"/>
-  <color name="c6" value="#9f40be"/>
+  <color name="c1" value="#c27e70"/>
+  <color name="c2" value="#CCBB66"/>
+  <color name="c3" value="#66CCA1"/>
+  <color name="c4" value="#A1CC66"/>
+  <color name="c5" value="#66ABCC"/>
+  <color name="c6" value="#a870c2"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
