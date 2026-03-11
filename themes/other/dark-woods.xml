@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="acid-cloud" version="1.0" name="acid-cloud">
-	<description>acid-cloud by fm3chanic</description>
+<style-scheme id="dark-woods" version="1.0" name="dark-woods">
+	<description>dark-woods by fm3chanic</description>
 
 	<!-- color values  -->
-	<color name="bg1" value="#161d16"/>
-	<color name="bg2" value="#212c21"/>
-	<color name="bg3" value="#2c3a2c"/>
-	<color name="fg1" value="#c5d3c5"/>
-	<color name="fg2" value="#a8bda8"/>
-	<color name="fg3" value="#8ba78b"/>
-	<color name="hl1" value="#6e916e"/>
-	<color name="hl2" value="#587458"/>
-	<color name="hl3" value="#425742"/>
+	<color name="bg1" value="#1D1E2D"/>
+	<color name="bg2" value="#292A3F"/>
+	<color name="bg3" value="#32344E"/>
+	<color name="fg1" value="#C4C1F0"/>
+	<color name="fg2" value="#A39FDF"/>
+	<color name="fg3" value="#8681C9"/>
+	<color name="hl1" value="#7395A6"/>
+	<color name="hl2" value="#597B8C"/>
+	<color name="hl3" value="#455F6C"/>
 
-  <color name="c1" value="#f49271"/>
-  <color name="c2" value="#f4f471"/>
-  <color name="c3" value="#71f4b3"/>
-  <color name="c4" value="#b3f471"/>
-  <color name="c5" value="#71f4f4"/>
-  <color name="c6" value="#f688a4"/>
+  <color name="c1" value="#BD6666"/>
+  <color name="c2" value="#DEAA45"/>
+  <color name="c3" value="#66BDB6"/>
+  <color name="c4" value="#92BD66"/>
+  <color name="c5" value="#8366BD"/>
+  <color name="c6" value="#BD66BC"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
