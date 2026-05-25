@@ -3,9 +3,9 @@
 	<description>torchlight-torches-of-winterwell by fm3chanic</description>
 
 	<!-- color values  -->
-	<color name="bg1" value="#1E1614"/>
-	<color name="bg2" value="#2D221E"/>
-	<color name="bg3" value="#3D2D28"/>
+	<color name="bg1" value="#292321"/>
+	<color name="bg2" value="#382F2D"/>
+	<color name="bg3" value="#463B39"/>
 	<color name="fg1" value="#F0BE77"/>
 	<color name="fg2" value="#D4A057"/>
 	<color name="fg3" value="#D08745"/>
@@ -13,12 +13,12 @@
 	<color name="hl2" value="#5C768A"/>
 	<color name="hl3" value="#52697B"/>
 
-  <color name="c1" value="#CB544D"/>
-  <color name="c2" value="#EAA747"/>
-  <color name="c3" value="#6FC19F"/>
-  <color name="c4" value="#A0C66B"/>
-  <color name="c5" value="#3088BA"/>
-  <color name="c6" value="#8A63B3"/>
+  <color name="c1" value="#CC6B65"/>
+  <color name="c2" value="#E7CC7C"/>
+  <color name="c3" value="#86C4AB"/>
+  <color name="c4" value="#AAC486"/>
+  <color name="c5" value="#60A8D1"/>
+  <color name="c6" value="#987AB7"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
