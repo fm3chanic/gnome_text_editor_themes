@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme id="cavern" version="1.0" name="cavern">
-	<description>cavern by fm3chanic</description>
+<style-scheme id="unreal" version="1.0" name="unreal">
+	<description>unreal by fm3chanic</description>
 
 	<!-- color values  -->
-	<color name="bg1" value="#272E2E"/>
-	<color name="bg2" value="#333B3C"/>
-	<color name="bg3" value="#3F494A"/>
-	<color name="fg1" value="#A2E8D6"/>
-	<color name="fg2" value="#88CCBB"/>
-	<color name="fg3" value="#6FB3A2"/>
-	<color name="hl1" value="#63878C"/>
-	<color name="hl2" value="#58787D"/>
-	<color name="hl3" value="#4D696D"/>
+	<color name="bg1" value="#020E1E"/>
+	<color name="bg2" value="#0E2F36"/>
+	<color name="bg3" value="#00515C"/>
+	<color name="fg1" value="#B7EFFA"/>
+	<color name="fg2" value="#87E4F7"/>
+	<color name="fg3" value="#59DAF4"/>
+	<color name="hl1" value="#0FABC8"/>
+	<color name="hl2" value="#0E9BA3"/>
+	<color name="hl3" value="#057C89"/>
 
-  <color name="c1" value="#D74343"/>
-  <color name="c2" value="#DFb06b"/>
-  <color name="c3" value="#5bc0bd"/>
-  <color name="c4" value="#9fc653"/>
-  <color name="c5" value="#679acc"/>
-  <color name="c6" value="#af5bc0"/>
+  <color name="c1" value="#C44D69"/>
+  <color name="c2" value="#E48269"/>
+  <color name="c3" value="#A2E08D"/>
+  <color name="c4" value="#6B9752"/>
+  <color name="c5" value="#2E68BA"/>
+  <color name="c6" value="#D26DE3"/>
 
 	<!-- global -->
 	<style name="text"                        foreground="fg1" background="bg1"/>
