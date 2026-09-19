@@ -1,5 +1,8 @@
 ## fm3chanic Themes for Gnome Text Editor
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for the Gnome Text Editor I've created so far.<br> 
 It is the text editor which comes with Gnome desktop environment for linux.
 
